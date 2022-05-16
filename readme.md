@@ -9,7 +9,6 @@ source venv/bin/activate
 npm install -D cypress
 
 # Iniciar o cypress
-./node_modules/.bin/cypress open
 npx cypress open
 
 # Video referencia
