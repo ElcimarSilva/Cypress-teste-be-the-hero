@@ -2,8 +2,8 @@
 npm init --yes
 
 # Venv no linux
-python3 -m venv venv
-source venv/bin/activate
+  python3 -m venv venv
+  source venv/bin/activate
 
 # Criar dependencia de DEV
 npm install -D cypress
